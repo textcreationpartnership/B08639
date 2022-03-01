@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Mr. Wyndham, on his appeal to the Right Honorable the Lords spiritual and temporal  in this present  Parliament assembled, from a dismission and decree made by the late Lord chancellor Jefferys in the Court of Chancery</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688-9999?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08639</idno>
+            <idno type="STC">Wing C959A</idno>
+            <idno type="STC">ESTC R173541</idno>
+            <idno type="EEBO-CITATION">64551033</idno>
+            <idno type="OCLC">ocm 64551033</idno>
+            <idno type="VID">184420</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184420)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Mr. Wyndham, on his appeal to the Right Honorable the Lords spiritual and temporal  in this present  Parliament assembled, from a dismission and decree made by the late Lord chancellor Jefferys in the Court of Chancery</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>after 1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wyndham, Edmund, fl. 1688 --  Trials, litigation, etc.</term>
+               <term>England and Wales. --  Court of Chancery.</term>
+               <term>Election law --  Engalnd --  Early works to 1800.</term>
+               <term>Elections --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184420:1"/>
+            <head>The Caſe Of Mr. <hi>Wyndham,</hi> on his Appeal to the Right Honorable the Lords Spiritual and Temporal in this preſent Parliament Aſſembled, from a Diſmiſſion and Decree made by the late Lord Chancellor <hi>Jefferys</hi> in the Court of Chancery.</head>
+            <opener>
+               <salute>
+                  <hi>Edmund Wyndham,</hi> Eſq; Pl. Dame <hi>Anne Wyndham,</hi> Widow, Def.</salute>
+            </opener>
+            <p>IN 1647. Sir <hi>Edmund Wyndham</hi> and Sir <hi>Hugh Wyndham</hi> both deceaſed, the Appellants Grand<g ref="char:EOLhyphen"/>father and Father morgaged divers Lands to one <hi>Edward Hyde,</hi> Eſq; in truſt for Sir <hi>Francis Wyndham,</hi> Brother of Sir <hi>Edmund,</hi> under a Proviſo that if Sir <hi>Edmund,</hi> or Sir <hi>Hugh Wyndham,</hi> or either of their Heirs, ſhould within Ten Years after the Date of the Deed pay Sir <hi>Francis Wyndham</hi> 1800 <hi>l.</hi> with Intereſt, and indemnify him and his Heirs for all Engagements he then ſtood Bound, or ſhould become Bound for the ſaid Sir <hi>Edmund</hi> and Sir <hi>Hugh Wyndham,</hi> the Deed was to be void.</p>
+            <p>That ſoon after the making of the Mortgage Sir <hi>Edmund</hi> went with his late Majeſty King <hi>Charles</hi> the Second beyond Sea, and Sir <hi>Hugh</hi> was impriſoned for Loyalty, being obnoxious to the late Uſurped Powers; and Sir <hi>Francis Wyndham</hi> was immediately impowered to ſell any part of the Mortgaged Eſtate to diſcharge his Debt, and intruſted by Sir <hi>Edmund</hi> to receive the Rents and Profits of all other his Lands and Eſtate to haſten the Payment thereof: And Sir <hi>Francis,</hi> by ſuch Sales and receipt of Profits, raiſed his whole Debt in a ſhort Time after the Mortgage; and Sir <hi>Ed<g ref="char:EOLhyphen"/>mund Wyndham</hi> returned not into <hi>England</hi> till the Reſtauration of his late Majeſty, and then Sir <hi>Francis Wyndham</hi> was a Member of Parliament and Privileged; but their were ſeveral References and Treaties between Sir <hi>Edmund</hi> and Sir <hi>Francis,</hi> in relation to the Mortgage, but no end was made before their Deaths; and Sir <hi>Edmund</hi> and Sir <hi>Hugh Wyndham</hi> being dead, the Appellant as their Heir claims the benefit of the Equity of Redemption; and the Defendant as Executrix of Sir <hi>Francis Wyndham</hi> claims what remains unfold of the Mortgaged Eſtate, and the Appellant's Suit in Chan<g ref="char:EOLhyphen"/>cery was to redeem the Eſtate, and have an account of the Monies raiſed towards the ſatisfa<g ref="char:EOLhyphen"/>ction thereof, and to avoid the ſame the Defendant pleaded the Statute of Limitation of Actions, and a pretended ſtated Account to be made up by and between Sir <hi>Edmund</hi> and Sir <hi>Francis Wynd<g ref="char:EOLhyphen"/>ham,</hi> and a Releaſe of the Equity of Redemption; and though Sir <hi>Hugh Wyndham</hi> were then living, yet was made no party or any wiſe privy thereto, and by that pretended account there was due in 1664. or 1665. 2912 <hi>l.</hi> 16 <hi>s.</hi> and the Defendant brought her Bill againſt the Appellant, to redeem according to that Account, or be Forecloſed of the Equity of Redemption.</p>
+            <p>22 <hi>Nov.</hi> 3 <hi>Jac.</hi> 2. Both Cauſes were heard before the Lord Chancellor <hi>Jefferys,</hi> who diſmiſſed the Appellants Bill with Coſts; and upon the Defendants croſs Bill decreed the Appellant to redeem the Mortgaged Premiſſes upon the Foot of the pretended Account, by payment of 2912 <hi>l.</hi> 16 <hi>s.</hi> with Intereſt and Coſts, or be Forecloſed of the Equity of Redemption; from which Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>miſſion and Decree the Appellant appeals, as being both Unjuſt and Unreaſonable.</p>
+            <p>Firſt, For that the pretended ſtated Account was not ever fully Stated or Allowed, as ſuch, either by the Appellants Grandfather or Father; but, on the contrary, was objected againſt as Erroneous, as appears by a Subſcription thereto and Under-written, which the Defendant concealed, and did not ſet forth by her Plea or Anſwer in Chancery.</p>
+            <p>Secondly, There is omitted out of the Receipts of Sir <hi>Francis Wyndham,</hi> and in the Account, 952 <hi>l.</hi> principle Money, and for which no Credit is given by the Account.</p>
+            <p>Thirdly, The Plantiffs Grandfather is by the Account charged with an Eſtate of Sir <hi>Francis Wyndham,</hi> pretended to be ſold by him to pay the Debt ſecured by the Mortgage 1245 <hi>l.</hi> principle Money, which is fully proved to be ſold but for 860 <hi>l.</hi> and ſo is by the pretended Account over<g ref="char:EOLhyphen"/>charged with 340 <hi>l.</hi> principle Money; and Intereſt upon Intereſt for the ſame, from 1655. to 1665.</p>
+            <p>Fourthly, The ſaid Sir <hi>Francis Wyndham</hi> chargeth himſelf by the ſaid Account but with 500 <hi>l.</hi> received of one Mr. <hi>Lacy</hi> upon Sale of the Mortgaged Premiſſes, whenas it is fully proved he received 570 <hi>l.</hi> So that the 70 <hi>l.</hi> and Intereſt thereof ever ſince 1649. is omitted out of the Account.</p>
+            <p>The whole Account throughout is made up and charged with Intereſt upon Intereſt, and for part of the purchaſe Money made by Sale of part of the Mortgaged Premiſſes, and which were ſold in 1649. the Mortgagors by the Account had no Credit or Allowance for the ſame till 1660, and yet in the mean time are charged with Intereſt upon Intereſt by the Account, in which there are many Omiſſions, Errors, and Over-charges, to the value of above 2000 <hi>l.</hi> and the principle Debt men<g ref="char:EOLhyphen"/>tioned in the Mortgage was but 1800 <hi>l.</hi> and within Two Years after the Mortgage Sir <hi>Francis Wynd<g ref="char:EOLhyphen"/>ham</hi> made by Sales of the Mortgaged Eſtate above 2000 <hi>l.</hi> beſides the 952 <hi>l.</hi> received by Profits, omitted to be charged in his Receipts; and he, and the Defendant, have beſides kept near a 100 <hi>l. per Annum</hi> of the morgaged Eſtate ever ſince; and yet 'tis pretended there is ſtill due near 3000 <hi>l.</hi> on the Mortgage beſides Intereſt, whenas on a juſt Account the Mortgage will appear over-paid: And on the whole Matter the Appellant humbly prays only to proceed to a Fair Account; and if any Thing ſhall appear thereon Due is ready to pay the ſame to the Defendant, upon reconveying of the Mortgaged Eſtate.</p>
+            <pb facs="tcp:184420:2"/>
+            <pb facs="tcp:184420:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
